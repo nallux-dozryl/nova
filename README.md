@@ -30,7 +30,7 @@ The way this script works is that it spawns the first planet with the ports hard
 
 ### Issues
 
-Please do not post it on Github. I'm a Github noob. Direct all your complaints to our [**Public Urbit Group**](web+urbitgraph://group/~donpub-datdux/gerhana-network)
+Please do not post it on Github. I'm a Github noob. Direct all your complaints to our Public Urbit Group ~donpub-datdux/gerhana-network
 
 ### Disclaimer
 
